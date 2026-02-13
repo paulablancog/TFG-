@@ -1,0 +1,5 @@
+# requirements for use of app
+
+pubchempy
+pandas
+requests
